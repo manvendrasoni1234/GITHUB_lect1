@@ -1,1 +1,3 @@
-# GITHUB_lect1
+this is my first gtihub repo
+<br>
+Author: - Kartik Soni
